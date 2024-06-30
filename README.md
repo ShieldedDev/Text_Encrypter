@@ -15,9 +15,11 @@ This project is a command-line tool for encrypting and decrypting text using the
 - Python 3.6 or higher
 - `cryptography` library
 
+
 ## Installation
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/yourusername/text-encryption-tool.git
-   cd text-encryption-tool
+   git clone https://github.com/ShieldedDev/Text_Encrypter
+   cd Text_Encrypter
+   pip install cryptography
